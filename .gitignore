@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Streamlit
+.streamlit/
+
+# IDE files
+.vscode/
+.idea/
+
+# Miscellaneous
+*.log
+*.swp
+.DS_Store
